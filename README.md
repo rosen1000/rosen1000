@@ -2,11 +2,7 @@
 
 ## Overview
 
-![overview](https://github.com/rosen1000/github-stats/blob/master/generated/overview.svg)
-
-## Languages
-
-![languages](https://github.com/rosen1000/github-stats/blob/master/generated/languages.svg)
+![rosen1000's Language Stats](https://github-stats-sooty-phi.vercel.app/api/top-langs?username=rosen1000&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&langs_count=8&layout=compact)  ![rosen1000's GitHub Stats](https://github-stats-sooty-phi.vercel.app/api?username=rosen1000&theme=vue-dark&hide_border=true&show_icons=true&hide_rank=true)
 
 ## Beloved
 
